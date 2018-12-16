@@ -1,0 +1,14 @@
+{
+  "name": "kactus02",
+  "version": "1.0.0",
+  "description": "GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jose Bustamante",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
+}
